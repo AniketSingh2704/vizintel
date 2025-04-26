@@ -137,7 +137,7 @@ const AdminLogin = () => {
                 {isLoading ? "Logging in..." : "Login"}
               </button>
             </div>
-          </form>s
+          </form>
         </motion.div>
       </div>
     </div>
